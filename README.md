@@ -8,3 +8,7 @@ Reveal answers
 Move forward/backward
 Add new flashcards
 Delete existing ones
+
+💡 Simple Summary
+
+👉 This app is a basic interactive flashcard system that helps users learn by showing questions and answers with navigation and editing features.
